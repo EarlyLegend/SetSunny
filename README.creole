@@ -1,0 +1,7 @@
+**SetSunny**
+
+What makes you happier than stormy weather on a summer day in minecraftia?\\
+That's right. Sunny weather does.
+
+I made this plugin mainly for personal usage,\\
+but as it's my first plugin, I wanted to share it with other people.
