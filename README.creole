@@ -5,3 +5,17 @@ That's right. Sunny weather does.
 
 I made this plugin mainly for personal usage,\\
 but as it's my first plugin, I wanted to share it with other people.
+
+**The folders**
+
+4-class Source code:\\
+The advanced version of SetSunny.
+
+Complex Source:\\
+The medium advanced version of SetSunny
+
+Simple Source:\\
+The first and ofcourse simplest version of SetSunny
+
+Downloads:\\
+Here you can download all of the plugins before they are posted on DevBukkit.
