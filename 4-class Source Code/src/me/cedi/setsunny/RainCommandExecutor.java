@@ -7,7 +7,9 @@ import org.bukkit.command.CommandExecutor;
 import org.bukkit.command.CommandSender;
 import org.bukkit.command.ConsoleCommandSender;
 import org.bukkit.entity.Player;
+import org.bukkit.event.EventHandler;
 
+@EventHandler
 public class RainCommandExecutor implements CommandExecutor{
 	
 	SetSunnyCore plugin;
