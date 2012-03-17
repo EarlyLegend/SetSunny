@@ -7,6 +7,7 @@ import org.bukkit.command.CommandExecutor;
 import org.bukkit.command.CommandSender;
 import org.bukkit.command.ConsoleCommandSender;
 import org.bukkit.entity.Player;
+import org.bukkit.event.EventHandler;
 
 public class StormCommandExecutor implements CommandExecutor{
 	
@@ -15,7 +16,7 @@ public class StormCommandExecutor implements CommandExecutor{
 	StormCommandExecutor(SetSunnyCore instance){
 		plugin = instance;
 	}
-
+	@EventHandler
 	public boolean onCommand(CommandSender sender, Command cmd, String label, String[] args) {
 	
 //onCommand(start)-------------------------------------------------		
